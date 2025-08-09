@@ -1,0 +1,10 @@
+Flask
+pyaudio
+requests
+speechrecognition
+gTTS
+pygame
+langdetect
+python-dotenv
+google-generativeai
+sarvamai
